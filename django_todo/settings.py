@@ -30,7 +30,8 @@ SECRET_KEY = 'django-insecure-r7k=twq0ke8=v)ew*-q-+1!(+)@91bwx@-0m(k5rw09&yhh7l*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-krystalcoding-ci-fullsta-7hfqh6dfzi.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-krystalcoding-ci-fullsta-7hfqh6dfzi.us2.codeanyapp.com',
+                 'django-portfolio-project-4-ae538e68c8db.herokuapp.com']
 
 
 # Application definition
